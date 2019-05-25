@@ -1,5 +1,5 @@
 # Shredder
-Code to shredder: Learning Noise for Privacy with Partial DNN Inference on the Edge
+Code to shredder: Learning Noise for Privacy with Partial DNN Inference on the Edge by FatemehSadat Mireshghallah (fmireshg@eng.ucsd.edu)
 
 In this repository you can find the code to shredder, and also the .npy files created through sampling, so you do not need to run everything from scratch, you can use those.
 
@@ -11,3 +11,4 @@ In this repository you can find the code to shredder, and also the .npy files cr
 3. To see the Mutual Info, you should first have the ITE toolbox cloned (https://bitbucket.org/szzoli/ite-in-python/src/default/). Then, run notebook "mutual_info_ITE-laplace-04.ipynb"
 
 
+Please do not hesitate to contact me in case of any issues
