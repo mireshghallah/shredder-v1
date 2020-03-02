@@ -1,7 +1,8 @@
 # Shredder
 Code to shredder-v1: Learning Noise for Privacy with Partial DNN Inference on the Edge by FatemehSadat Mireshghallah (fmireshg@eng.ucsd.edu)
 
-The paper pdf is available at: https://arxiv.org/abs/1905.11814v1
+The paper pdf is available at: https://arxiv.org/pdf/1905.11814v1.pdf, note that it is version1 of the work, not the final version. 
+
 This work appeared in the thirty-sixth International Conference on Machine Learning (ICML19), Security and Privacy of Machin Learning Workshop (https://icml2019workshop.github.io/).
 
 In this repository you can find the code to shredder, and also the .npy files created through sampling, so you do not need to run everything from scratch, you can use those.
